@@ -4,7 +4,7 @@ var hackerearth = new hackerearth('203157672c819e6d5ca8ace68ad81fbe08758ba6');
 var config = {};
 config.time_limit = 2;
 config.memory_limit = 323244;
-// config.input = "";
+// config.input= "";
 config.language = "C++";
 
 async function compile(code, input, language) {
